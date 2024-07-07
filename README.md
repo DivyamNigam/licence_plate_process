@@ -1,4 +1,4 @@
-# licence_plate_process
+# licence_plate_process For Begineers
 A ML project to process a license plate using pytorch YOLO and easy OCR.
 
 YOLO V8 Licene plate Model- https://github.com/computervisioneng/yolo-license-plate-detection
